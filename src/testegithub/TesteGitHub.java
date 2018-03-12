@@ -16,6 +16,7 @@ public class TesteGitHub {
      */
     public static void main(String[] args) {
         // Exemplo de controle de versão com o uso do GitHub
+        String nome = "";
     }
     
 }
